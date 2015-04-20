@@ -1,4 +1,2 @@
-#PySoy Work
-Texture.gs - Quickfix for texture wrap, resizes image to be power of 2 so that GL_REPEAT functions correctly
-
-soyprotein.py - function to determine what object was clicked and clickable method
+#PySoy Game Project
+https://docs.google.com/document/d/1sAMCrJwmny6CJN7wO8umyyQokTaEP491IY3zW9Zt9XA/edit?usp=sharing
